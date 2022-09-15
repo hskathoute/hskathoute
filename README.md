@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hskathoute
-- 👀 I’m interested in ... programming language
-- 🌱 I’m currently learning ... electronics and telecommunication engineering
+- 👋 Hi Everyone I am Harsh Kathoute
+- 👀 MY basic intrest in c, c+ and java 
+- 🌱 I’m currently persuing B.TEch in Electronics and Telecommunication.
 - 💞️ I’m looking to collaborate on ...c an c++ project 
 - 📫 How to reach me ... give me some istrunction
 
